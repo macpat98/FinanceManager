@@ -46,7 +46,7 @@
                 <ListViewItem>
                     <StackPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
                         <TextBlock Text="Total" HorizontalAlignment="Center" />
-                        <TextBlock Text="{Binding tekscik, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Center" />
+                        <TextBlock Text="{Binding Tekscik, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Center" />
                     </StackPanel>
                 </ListViewItem>
                 <ListViewItem>

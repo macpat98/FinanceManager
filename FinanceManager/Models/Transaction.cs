@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FinanceManager.Models
 {
-    internal class Transaction
+    public class Transaction
     {
         public int Id { get; set; }
         public string Description { get; set; } = string.Empty;
